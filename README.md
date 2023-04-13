@@ -7,10 +7,10 @@ Soy un **Ingeniero de Software** con más de 3 años de experiencia en roles té
 - ⚙️ Utilizo diariamente: `.ts`, `.js`, `.php`, `.java`, `.html`, `.css`, `.sql`, `React`, `Vite`, `Next.js`, `TailwindCSS`, `MUI`, `Bootstrap`, `Jquery`, `Redux`, `TypeORM`, `Git Flow`, `Git`, `NestJS`, `NodeJs`, `DynamoDB`, `PostgreSQL`, `MySQL`, `Scrum`, `Kanban`.
 - 🌍 Estoy interesado en tecnologías web, desarrollo de software y proyectos de código abierto.
 - 🌱 Actualmente estoy aprendiendo más sobre **AWS**, **GraphQL** y **Kubernetes**.
-- 💬 Si quieres charlar sobre desarrollo de software, háblame sobre **fútbol** o simplemente quieres decir hola, no dudes en contactarme.
+- 💬 Si quieres charlar sobre desarrollo de software, hablarme sobre **musica** o simplemente quieres decir hola, no dudes en contactarme.
 
 ## Estadísticas de GitHub
-[![Estadísticas de GitHub de Javier](https://github-readme-stats.vercel.app/api?username=JavierMonterroso&show_icons=true&theme=dark)](https://github.com/JavierMonterroso)
+[![Estadísticas de GitHub de Javier](https://github-readme-stats.vercel.app/api?username=xvimnt&show_icons=true&theme=dark)](https://github.com/xvimnt)
 
 ## Proyectos destacados
 - [Proyecto 1](https://vsms.admin.xvimnt.com/) - Una página web que crea una nueva forma de hacer y administrar sitios de comercio electrónico.
@@ -31,9 +31,9 @@ Soy un **Ingeniero de Software** con más de 3 años de experiencia en roles té
 Hi there! I'm Javier Monterroso, a mid-level software engineer from Guatemala City, GT. I have over 3 years of experience in technical and non-technical roles across diverse industries. I'm skilled in translating account goals into custom solutions that promote stakeholder satisfaction and deliver measurable results. I'm also adept at building influential relationships and collaborating effectively as a team player to champion a culture of efficiency, target attainment, and continuous improvement. I have a proven track record of driving successful outcomes and exceeding expectations.
 
 - **Location:** Guatemala City, GT
-- **Email:** [email address]
-- **LinkedIn:** [LinkedIn profile URL]
-- **Portfolio:** [portfolio URL]
+- **Email:** jvmonteros98@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/xvimnt/
+- **Portfolio:** https://www.intro.xvimnt.com/
 
 # Skills
 
@@ -48,11 +48,11 @@ Hi there! I'm Javier Monterroso, a mid-level software engineer from Guatemala Ci
 
 # GitHub Stats
 
-[![Javier Monterroso's GitHub stats](https://github-readme-stats.vercel.app/api?username=[github username]&count_private=true&show_icons=true&theme=radical)](https://github.com/[github username])
+[![Javier Monterroso's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvimnt&count_private=true&show_icons=true&theme=radical)](https://github.com/xvimnt)
 
 # Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[github username]&layout=compact)](https://github.com/[github username])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvimnt&layout=compact)](https://github.com/xvimnt)
 
 # Projects
 
