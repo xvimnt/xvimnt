@@ -7,6 +7,7 @@ Hi there! I'm Javier Monterroso, a mid-level software engineer from Guatemala Ci
 - **Email:** jvmonteros98@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/xvimnt/
 - **Portfolio:** https://www.intro.xvimnt.com/
+- **WhatsApp:** (502) 5954 1638
 
 # Skills
 
@@ -26,12 +27,6 @@ Hi there! I'm Javier Monterroso, a mid-level software engineer from Guatemala Ci
 # Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvimnt&layout=compact)](https://github.com/xvimnt)
-
-## Contact
-- LinkedIn: [linkedin.com/in/javiermonterroso/](https://www.linkedin.com/in/javiermonterroso/)
-- Portfolio: [javiermonterroso.com](https://www.javiermonterroso.com/)
-- Email: tuemail@gmail.com
-- Teléfono: (502) 5954 1638
 
 # Projects
 
