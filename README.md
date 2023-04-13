@@ -9,7 +9,7 @@ Hi there! I'm Javier Monterroso, a mid-level software engineer from Guatemala Ci
 - **Portfolio:** https://www.intro.xvimnt.com/
 - **WhatsApp:** (502) 5954 1638
 
-# Profesional Experience with:
+# Professional Experience with:
 
 | Category | Skills |
 |----------|--------|
