@@ -9,16 +9,19 @@ Hi there! I'm Javier Monterroso, a mid-level software engineer from Guatemala Ci
 - **Portfolio:** https://www.intro.xvimnt.com/
 - **WhatsApp:** (502) 5954 1638
 
-# Skills
+# What I'm good at?
 
-- Typescript, Javascript, PHP, Java, HTML, CSS, SQL
-- React, Vite, Next JS
-- TailwindCSS, MUI, Bootstrap
-- Jquery, Redux, TypeORM
-- Git Flow, Git
-- NestJS, NodeJs
-- DynamoDB, PostgreSQL, MySQL
-- Scrum, Kanban
+| Category | Skills |
+|----------|--------|
+| Programming Languages | Typescript, Javascript, PHP, Java, HTML, CSS, SQL |
+| Front-End Frameworks | React, Vite, Next JS |
+| CSS Frameworks | TailwindCSS, MUI, Bootstrap |
+| Libraries | Jquery, Redux, TypeORM |
+| Version Control | Git Flow, Git |
+| Back-End Frameworks | NestJS, NodeJs |
+| Databases | DynamoDB, PostgreSQL, MySQL |
+| Project Management | Scrum, Kanban |
+
 
 # GitHub Stats
 
