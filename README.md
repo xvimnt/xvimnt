@@ -10,7 +10,7 @@ technologies, including React, Next.js, Angular, Nest.js, Python, Java, and PHP.
 - **Portfolio:** https://www.xvimnt.com/
 - **WhatsApp:** (502) 5954 1638
 
-# skillsset:
+# I'm pro at:
 
 | Category | Skills |
 |----------|--------|
