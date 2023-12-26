@@ -15,8 +15,8 @@ technologies, including React, Next.js, Angular, Nest.js, Python, Java, and PHP.
 | Category | Skills |
 |----------|--------|
 | Programming Languages | Typescript, Javascript, PHP, Java, HTML, CSS, SQL |
-| Front-End Frameworks | React, Vite, Next JS |
-| CSS Frameworks | TailwindCSS, MUI, Bootstrap |
+| Front-End Frameworks | React, Next JS, Angular |
+| CSS Frameworks | TailwindCSS, MUI, Bootstrap, SCSS |
 | Libraries | Jquery, Redux, TypeORMm, Prisma, TRPC |
 | Version Control | Git Flow, Git |
 | Back-End Frameworks | NestJS, NodeJs |
