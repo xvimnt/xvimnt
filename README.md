@@ -4,7 +4,7 @@
 Hi there! I'm Javier Monterroso, a dedicated and versatile developer with 4 years of experience specializing in Frontend, Full Stack, and Backend development. Proficient in a wide range of
 technologies, including React, Next.js, Angular, Nest.js, Python, Java, and PHP.
 
-- **Location:** Guatemala City, GT
+- **Location:** Buenos Aires, Argentina
 - **Email:** jvmonteros98@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/xvimnt/
 - **Portfolio:** https://www.xvimnt.com/
