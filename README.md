@@ -35,12 +35,11 @@ Software engineer with 6 years of experience building APIs and full-stack produc
 - [Tu Asesor Inmobiliario](https://www.tuasesorinmobiliario.online/): blueprints and project management for real estate.
 - [Techos Digitales](https://www.techosdigitales.com/): a real estate platform powered by AI.
 
-## GitHub stats
+## GitHub stats## GitHub stats
 
-[![Javier Monterroso's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvimnt&count_private=true&show_icons=true&theme=radical)](https://github.com/xvimnt)
+[![Javier Monterroso's GitHub stats](https://github-stats-extended.vercel.app/api?username=xvimnt&count_private=true&show_icons=true&theme=radical)](https://github.com/xvimnt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvimnt&layout=compact&theme=radical)](https://github.com/xvimnt)
-
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=xvimnt&layout=compact&theme=radical)](https://github.com/xvimnt)
 ## Let's connect
 
 Thanks for stopping by! Feel free to reach out if you have any questions or just want to connect.
